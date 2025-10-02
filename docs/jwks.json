@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "withings-backend-key-1",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "qhXAhNUOQUAkIlHED0cectCCGS4SPSE-TxUNOiKfP9bwAh7widnGCWK0naI2290rSPTdDn0P-QlSB2-wsmQvZTf10Weer81v5Y0itCELtzQ8CzW3fo4YpYXU8Hw0hc0at2Xr7LTE_IRKlBn47QpWORp3iyZQMD4K89Iim3JVt4hZ8bQyQ1USr9FScKThuESiT1gOKQGpynV1JQQ0MoMHkO8Tlaa1LSt1FstdsTDNVQ4dbm1n0_gVLD-k8qZsL8h-WGYm0jwtXyikQNoNzTvtVtmP6iMhq0svUFdEOASSADCvqx-pTfWymjdy73VSPDeupOmlbPPfv5-_NsyDYkGEaw",
+      "e": "AQAB"
+    }
+  ]
+}
